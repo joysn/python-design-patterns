@@ -15,3 +15,5 @@ dp6*.py - Prototype Pattern
 dp7*.py - Bourgh Pattern (singleton class)
 
 dp8_f*.py - Facade Pattern
+
+dp9*.py - Decorator Pattern
