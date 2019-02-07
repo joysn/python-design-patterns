@@ -19,3 +19,5 @@ dp8_f*.py - Facade Pattern
 dp9*.py - Decorator Pattern
 
 dp10*.py - Adapter Pattern
+
+dp11*.py - Command Pattern
