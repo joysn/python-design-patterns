@@ -33,3 +33,5 @@ dp15*.py - Observer Pattern
 dp16*.py - Strategy Pattern
 
 dp17*.py - Memento Pattern
+
+dp18*.py - Template Pattern
