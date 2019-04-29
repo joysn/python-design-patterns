@@ -39,6 +39,8 @@ dp18*.py - Template Pattern
 ****************
 *** VISUALS ***
 ****************
+Factory Design Pattern
 ![Factory](https://github.com/joysn/python-design-patterns/blob/master/diagrams/factory_pattern.png)
+Builder Design Pattern
 ![Builder](https://github.com/joysn/python-design-patterns/blob/master/diagrams/house_builder.png)
 
