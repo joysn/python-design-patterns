@@ -35,3 +35,9 @@ dp16*.py - Strategy Pattern
 dp17*.py - Memento Pattern
 
 dp18*.py - Template Pattern
+
+****************
+*** VISUALS ***
+****************
+![Builder](https://github.com/joysn/python-design-patterns/blob/master/diagrams/house_builder.png)
+
